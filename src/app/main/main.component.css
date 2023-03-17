@@ -1,0 +1,14 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float:left;
+    background-color: rgb(211, 207, 207);
+    width: 75%;
+    height: calc(100vh - var(--navbar-height));
+    margin: 0;
+}
+
+form{
+    width: 60%;
+}
